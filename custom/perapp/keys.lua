@@ -1,5 +1,6 @@
 require "keybow"
-require "layouts/default" -- Numberpad
+-- require "layouts/default" -- Numberpad
+require "layouts/perapp" -- Numberpad
 
 -- Custom layouts (uncomment to enable) --
 
